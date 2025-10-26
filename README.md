@@ -1,7 +1,10 @@
 <p align="center">
-  <img src="https://count.getloli.com/@ai-1?name=ai-1&theme=booru-vp&padding=2&offset=4&align=center&scale=1&pixelated=1&darkmode=auto&num=6&prefix=1" />
-  <img src="https://count.getloli.com/@ai-2?name=ai-2&theme=booru-vp&padding=2&offset=4&align=center&scale=1&pixelated=1&darkmode=auto&num=6&prefix=2" />
-  <img src="https://count.getloli.com/@ai-3?name=ai-3&theme=booru-vp&padding=2&offset=4&align=center&scale=1&pixelated=1&darkmode=auto&num=6&prefix=3" />
-  <img src="https://count.getloli.com/@ai-4?name=ai-4&theme=booru-vp&padding=2&offset=4&align=center&scale=1&pixelated=1&darkmode=auto&num=6&prefix=4" />
-
+  <img src="https://count.getloli.com/get/@demo1?name=1&theme=booru-vp&num=1" />
+  <img src="https://count.getloli.com/get/@demo2?name=2&theme=booru-vp&num=2" />
+  <img src="https://count.getloli.com/get/@demo3?name=3&theme=booru-vp&num=3" />
+  <img src="https://count.getloli.com/get/@demo4?name=4&theme=booru-vp&num=4" />
+  <img src="https://count.getloli.com/get/@demo5?name=5&theme=booru-vp&num=5" />
+  <img src="https://count.getloli.com/get/@demo6?name=6&theme=booru-vp&num=6" />
+  <img src="https://count.getloli.com/get/@demo7?name=7&theme=booru-vp&num=7" />
 </p>
+
