@@ -1,9 +1,4 @@
-<p align="center">
-   <sub>profile visits</sub><br/>
-  <img src="https://count.getloli.com/@booru-vp?name=booru-vp&theme=random&padding=7&offset=0&align=top&scale=1.5&pixelated=1&darkmode=auto" 
-       alt="Profile Visits"/>
-</p>
----
+
 
 ## hey, i'm karthik shetty 
 
